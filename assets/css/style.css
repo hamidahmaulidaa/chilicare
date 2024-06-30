@@ -604,6 +604,10 @@ span {
     background-color: #ff92a5;
 }
 
+.feature-section .single-feature .icon.color-4 {
+    background-color: #c56bdb;
+}
+
 .feature-section .single-feature .icon::after {
     content: '';
     position: absolute;
