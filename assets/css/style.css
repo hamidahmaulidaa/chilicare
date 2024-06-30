@@ -34,6 +34,14 @@ img {
     max-width: 100%;
 }
 
+.faq-image {
+    position: relative;
+    top: -100px; /* Sesuaikan dengan jarak yang diinginkan ke atas */
+    right: -120px; /* Sesuaikan dengan jarak yang diinginkan ke kanan */
+    transform: scale(1.1); /* Sesuaikan dengan faktor pembesaran yang diinginkan */
+    transition: all 0.3s ease; /* Animasi saat perubahan */
+}
+
 ul {
     margin: 0;
     padding: 0;
